@@ -1,0 +1,105 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    gap: 600px;
+}
+
+header div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+header button{
+width: 192px;
+height: 82px;
+background-color: #F1A900
+;
+font-weight: 900;
+font-size: 20px;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    background-color: #222222;
+    height: 44px;
+    align-items: center;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+}
+
+
+.bir{
+    width: 235px;
+    height: 73px;
+    background-color: #F1A900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+.ikki{
+    width: 235px;
+    height: 73px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+.text{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    padding-top: 300px;
+}
+.box{
+    height: 797px;
+    background-image: url(./image\ 5.png);
+    
+    
+}
+
+.text2{
+    width: 966px;
+    height: 202px;
+    background-color: yellow;
+    margin-left: 200px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 54px;
+    opacity: 0.5;
+    
+    
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    gap: 600px;
+    height: 101px;
+}
+
+footer div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
